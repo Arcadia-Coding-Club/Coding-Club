@@ -1,5 +1,6 @@
 # AHS Coding Club
-Hosts the [AHS Coding Club domain](https://arcadia-coding-club.github.io/Coding-Club/)
+** OLD WEBSITE **
+NEW WEBSITE --> [AHS Coding Club domain](https://arcadia-coding-club.github.io)
 
 ## Home
 The site design is now 100% responsive!
